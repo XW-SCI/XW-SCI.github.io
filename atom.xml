@@ -2,11 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xwsci.github.io</id>
     <title>Xijun Wang&apos;s Website</title>
-    <updated>2021-05-18T00:51:31.296Z</updated>
+    <updated>2021-05-18T01:32:50.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xwsci.github.io"/>
     <link rel="self" href="https://xwsci.github.io/atom.xml"/>
-    <subtitle>Xijun Wang, Postdoctor</subtitle>
+    <subtitle>Xijun Wang, Postdoctor&lt;br&gt;
+Department of Chemical and Biomolecular Engineering&lt;br&gt;
+North Carolina State University, Raleigh, NC</subtitle>
     <logo>https://xwsci.github.io/images/avatar.png</logo>
     <icon>https://xwsci.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Xijun Wang&apos;s Website</rights>
